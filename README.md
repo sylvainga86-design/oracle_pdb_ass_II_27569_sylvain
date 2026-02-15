@@ -1,7 +1,7 @@
 # Oracle Pluggable Database Assignment II
 
 Student ID: 27569
-Name: Sylvain
+Name: Sylvain NSENGA NDIZEYE
 PDB Name: sy_pdb_27569
 User: sylvain_plsqlauca_27569
 
